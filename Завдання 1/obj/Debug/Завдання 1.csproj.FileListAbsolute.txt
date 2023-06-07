@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\bin\Debug\Завдання 1.exe.config
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\bin\Debug\Завдання 1.exe
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\bin\Debug\Завдання 1.pdb
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання 1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання_1.frmGraphics.resources
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання_1.Properties.Resources.resources
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання 1.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання 1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання 1.exe
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 1\obj\Debug\Завдання 1.pdb
